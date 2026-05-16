@@ -1,4 +1,8 @@
-# Structured HTML Report Skill for GitHub Copilot
+# AI Assistant Skills, Prompts, and Agent Assets
+
+This repository is a general toolkit of useful assets for AI coding assistants, including skills, prompts, instructions, templates, and related support files for tools such as GitHub Copilot, Claude Code, and Codex.
+
+Usefulness is prioritized over strict hierarchy: each artifact is meant to be practical, reusable, and easy to evolve. At the moment, the repository includes one complete skill package focused on generating structured HTML reports with strong graphical support.
 
 This package provides a GitHub Copilot-oriented skill for generating rich, visually polished, and iteratively editable HTML reports.
 
